@@ -8,7 +8,7 @@ EMAIL_PASSWORD = senha
 
 msg = EmailMessage()
 msg['subject'] = 'Equipamento novo para inventário'
-msg['from']= ' michaelrodrigues@canaverde.com.br'
+msg['from']= ' michaelrodrigue'
 msg['To']= 'michael.pires.rodrigues@gmail.com'
 
 msg.set_content('')
